@@ -1,0 +1,14 @@
+Defined roasts as: Light, Medium, Dark, Espresso 
+
+Decided to use an R model using posterior probability to predict roast.  
+
+Decided to add a Survey table.  Survey(ID, various demographics....).  
+
+Survey has a relationship to Subscriber.  I think it should also have one to User, but that's an issue for another time.  
+
+The survey collects information on Age, Frequency, Darkness, Gender, and Ethnicity.  
+
+The survery table feeds data into a model that outputs predictions per user that we want to feed into a prediction table.  
+
+Prediction(ID, Prediction (predicting roast)).  
+
