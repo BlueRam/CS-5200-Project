@@ -1,0 +1,31 @@
+﻿{% extends 'layout.html' %}
+    <head>
+        <meta charset="utf-8">
+        <title>Register</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
+    </head>
+{% block title %}Home{% endblock %}
+{% block content %}
+    <h1>Coffee Products</h1>
+    <form method="post">
+        {% for i in products.keys() %}
+    <div class="well">
+        <h2>
+            <a href="{{ url_for('product', key=i) }}">{{products[i]['title'] }}</a>
+            <small>$ {{ products[i]['price'] }}</small>
+        </h2>
+        <label for={{products[i]['title']}}>
+            <i class="fas fa-coffee"></i>
+        </label>
+        <input type="number" name={{i}} placeholder={{products[i]['title'] }} id={{products[i]['title'] }} min="0" value="0" required>
+        <input type="submit" value="Add To Cart">
+    </div>
+
+        {% endfor %}
+
+        <div class="msg">{{ msg }}</div>
+        <input type="submit" value="Add To Cart">
+
+    </form>
+{% endblock %}

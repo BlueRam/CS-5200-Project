@@ -1,0 +1,22 @@
+﻿{% extends 'layout.html' %}
+
+{% block title %}Cart{% endblock %}
+
+{% block content %}
+<h1>Cart</h1>
+<body class="cart">
+    {% block container %}
+    <div class="top-pad">
+        {% for i in products.keys() %}
+        <div class="well">
+            <h2>
+                <a href="{{ url_for('product', key=i) }}">{{products[i]['title'] }}</a>
+                <p align="'right">{{cart_total[i][1]}}</p>
+            </h2>
+        </div>
+        {% endfor %}
+    </div>
+    {% endblock %}
+    <a href="{{url_for('checkout')}}">checkout</a>
+</body>
+{% endblock %}

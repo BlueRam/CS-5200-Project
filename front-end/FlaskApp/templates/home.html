@@ -1,0 +1,20 @@
+{% extends 'layout.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<h2>Home Page</h2>
+<p>Welcome back, {{ username }}!</p>
+{% block container %}
+<div class="top-pad">
+    {% for i in products.keys() %}
+    <div class="well">
+        <h2>
+            <a href="{{ url_for('product', key=i) }}">{{products[i]['title'] }}</a>
+            <small>$ {{ products[i]['price'] }}</small>
+        </h2>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
+{% endblock %}
