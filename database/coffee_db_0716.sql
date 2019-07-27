@@ -15,10 +15,10 @@ email varchar(250) not null,
 address varchar(250) not null, 
 subscriber tinyint default 0,
 dob date not null, 
-drink_frequency enum('1','2','3','4','5+'), 
+drink_frequency enum('1','2','3','4','5','5+'), 
 roast_preference enum('light', 'medium', 'dark', 'espresso'), 
 gender varchar(50));  
- 
+
 
 drop table if exists coffee_products;
 
