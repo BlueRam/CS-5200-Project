@@ -1,0 +1,1815 @@
+origin_id,state,Country
+0,Cajamarca,Peru
+1,Maine,United States of America (the)
+2,New Hampshire,United States of America (the)
+3,Hawaii,United States of America (the)
+4,California,United States of America (the)
+5,Louisiana,United States of America (the)
+6,Virginia,United States of America (the)
+7,Chiquimula,Guatemala
+8,Chiquimula,Guatemala
+9,Arizona,United States of America (the)
+10,Tolima,Colombia
+11,Ohio,United States of America (the)
+12,Texas,United States of America (the)
+13,New York,United States of America (the)
+14,Tennessee,United States of America (the)
+15,New York,United States of America (the)
+16,La Paz,Bolivia (Plurinational State of)
+17,Alajuela,Costa Rica
+18,Junín,Peru
+19,Esteli,Nicaragua
+20,Puebla,Mexico
+21,Puebla,Mexico
+22,Nueva Segovia,Nicaragua
+23,PUNTARENAS,Costa Rica
+24,CIUDAD DE MEXICO,Mexico
+25,Ciudad de Mexico,Mexico
+26,CHIAPAS,Mexico
+27,ATLANTICO,Colombia
+28,Chiapas,Mexico
+29,Alajuela,Costa Rica
+30,Guatemala,Guatemala
+31,Guatemala,Guatemala
+32,Telpaneca,Nicaragua
+33,MAGDALENA,Colombia
+34,New Jersey,United States of America (the)
+35,New Jersey,United States of America (the)
+36,Minnesota,United States of America (the)
+37,Illinois,United States of America (the)
+38,Alaska,United States of America (the)
+39,San Jose,Costa Rica
+40,New York,United States of America (the)
+41,Colorado,United States of America (the)
+42,California,United States of America (the)
+43,New Jersey,United States of America (the)
+44,Florida,United States of America (the)
+45,Minnesota,United States of America (the)
+46,Texas,United States of America (the)
+47,Nevada,United States of America (the)
+48,California,United States of America (the)
+49,California,United States of America (the)
+50,Utcubamba,Peru
+51,Florida,United States of America (the)
+52,California,United States of America (the)
+53,Nevada,United States of America (the)
+54,Ceara,Brazil
+55,Chiapas,Mexico
+56,Wisconsin,United States of America (the)
+57,Jaen,Peru
+58,California,United States of America (the)
+59,Copan,Honduras
+60,Sololá,Guatemala
+61,San Jose,Costa Rica
+62,Minas Gerais,Brazil
+63,New York,United States of America (the)
+64,Sao Paulo,Brazil
+65,São Paulo,Brazil
+66,New Mexico,United States of America (the)
+67,California,United States of America (the)
+68,Guayas,Ecuador
+69,Mandalay Division,Myanmar
+70,Florida,United States of America (the)
+71,Esteli,Nicaragua
+72,Solola,Guatemala
+73,Loja,Ecuador
+74,SAN MARTIN,Peru
+75,Tolima,Colombia
+76,La Paz,Bolivia (Plurinational State of)
+77,JUNIN,Peru
+78,Neiva Huila,Colombia
+79,La Paz,Bolivia (Plurinational State of)
+80,La Paz,Bolivia (Plurinational State of)
+81,Cajamarca,Peru
+82,Jinotega,Nicaragua
+83,Huehuetenango,Guatemala
+84,Quiche,Guatemala
+85,Quetzaltenango,Guatemala
+86,Ahuachapán,El Salvador
+87,Sonsonate,El Salvador
+88,La Paz,Honduras
+89,La Paz,Honduras
+90,La Paz,Honduras
+91,Junin,Peru
+92,Junin,Peru
+93,San Ignacio,Peru
+94,Jaen,Peru
+95,Tolima,Colombia
+96,Cauca,Colombia
+97,San Martín,Peru
+98,Pasco,Peru
+99,Tolima,Colombia
+100,Tolima,Colombia
+101,Cajamarca,Peru
+102,Cajamarca,Peru
+103,La Paz,Bolivia (Plurinational State of)
+104,Tolima,Colombia
+105,La Paz,Bolivia (Plurinational State of)
+106,Junín,Peru
+107,Huehuetenango,Guatemala
+108,Tolima,Colombia
+109,VALLE DEL CAUCA,Colombia
+110,La Paz,Honduras
+111,La Paz,Honduras
+112,La Paz,Honduras
+113,La Paz,Honduras
+114,La Paz,Honduras
+115,Tolima,Colombia
+116,Junín,Peru
+117,La Paz,Bolivia (Plurinational State of)
+118,Junín,Peru
+119,Cajamarca,Peru
+120,JAEN,Peru
+121,Cajamarca,Peru
+122,Cajamarca,Peru
+123,Cajamarca,Peru
+124,Tolima,Colombia
+125,San Ignacio - Cajamarca,Peru
+126,Amazonas,Peru
+127,Amazonas,Peru
+128,Junin,Peru
+129,JUNIN,Peru
+130,Intibucá,Honduras
+131,Jaen,Peru
+132,La Paz,Honduras
+133,Amazonas,Peru
+134,CUTERVO,Peru
+135,Jaen,Peru
+136,CAJAMARCA,Peru
+137,Cajamarca,Peru
+138,Cajamarca,Peru
+139,Copan,Honduras
+140,Cajamarca,Peru
+141,Junin,Peru
+142,Junin,Peru
+143,San Martin,Peru
+144,AMAZONAS,Peru
+145,Copan,Honduras
+146,San Ignacio Cajamarca,Peru
+147,Tolima,Colombia
+148,Amazonas,Peru
+149,Junín,Peru
+150,Copan,Honduras
+151,Copan,Honduras
+152,Loja,Ecuador
+153,Solola,Guatemala
+154,Copan,Honduras
+155,Huehuetenango,Guatemala
+156,La Paz,Bolivia (Plurinational State of)
+157,La Paz,Bolivia (Plurinational State of)
+158,La Paz,Bolivia (Plurinational State of)
+159,Tolima,Colombia
+160,Huehuetenango,Guatemala
+161,Tolima,Colombia
+162,Cajamarca,Peru
+163,Lempira,Honduras
+164,CUNDINAMARCA,Colombia
+165,Chanchamayo,Peru
+166,Tolima,Colombia
+167,Tolima,Colombia
+168,Oruro,Bolivia (Plurinational State of)
+169,Olancho,Honduras
+170,San Martin,Peru
+171,Junín,Peru
+172,Junin,Peru
+173,Junín,Peru
+174,Junín,Peru
+175,La Paz,Honduras
+176,Cartago,Costa Rica
+177,Huanuco,Peru
+178,Junín,Peru
+179,Amazonas,Peru
+180,Ibague,Colombia
+181,La Paz,Bolivia (Plurinational State of)
+182,La Paz,Bolivia (Plurinational State of)
+183,La Paz,Bolivia (Plurinational State of)
+184,CAJAMARCA,Peru
+185,Cajamarca,Peru
+186,Ciudad de Guatemala,Guatemala
+187,MAGDALENA,Colombia
+188,Texas,United States of America (the)
+189,Parana,Brazil
+190,New York,United States of America (the)
+191,California,United States of America (the)
+192,Colombia,Mexico
+193,Bahia,Brazil
+194,California,United States of America (the)
+195,Hunan Province,China
+196,Connecticut,United States of America (the)
+197,Quindío,Colombia
+198,Minnesota,United States of America (the)
+199,Pennsylvania,United States of America (the)
+200,New York,United States of America (the)
+201,Lima,Peru
+202,Santa Ana,El Salvador
+203,Maryland,United States of America (the)
+204,South Carolina,United States of America (the)
+205,Georgia,United States of America (the)
+206,New York,United States of America (the)
+207,Georgia,United States of America (the)
+208,California,United States of America (the)
+209,California,United States of America (the)
+210,Vaud,Switzerland
+211,New York,United States of America (the)
+212,New York,United States of America (the)
+213,Massachusetts,United States of America (the)
+214,São Paulo,Brazil
+215,Illinois,United States of America (the)
+216,California,United States of America (the)
+217,Matagalpa,Nicaragua
+218,Matagalpa,Nicaragua
+219,Matagalpa,Nicaragua
+220,Copan,Honduras
+221,Copan,Honduras
+222,Chalchuapa,El Salvador
+223,Lempira,Honduras
+224,Cortes,Honduras
+225,Cortes,Honduras
+226,Cortes,Honduras
+227,Copán,Honduras
+228,Copan,Honduras
+229,Copan,Honduras
+230,Copan,Honduras
+231,Madriz,Nicaragua
+232,Matagalpa,Nicaragua
+233,Copan,Honduras
+234,Ocotepeque,Honduras
+235,Ocotepeque,Honduras
+236,Ocotepeque,Honduras
+237,Chinautla,Guatemala
+238,Copan,Honduras
+239,Copan,Honduras
+240,Copan,Honduras
+241,Madriz,Nicaragua
+242,Ciudad de Guatemala,Guatemala
+243,Matagalpa,Nicaragua
+244,Matagalpa,Nicaragua
+245,Matagalpa,Nicaragua
+246,Connecticut,United States of America (the)
+247,Ohio,United States of America (the)
+248,Hawaii,United States of America (the)
+249,La Paz,Honduras
+250,Jalisco,Mexico
+251,California,United States of America (the)
+252,Utah,United States of America (the)
+253,Copan,Honduras
+254,New York,United States of America (the)
+255,Maine,United States of America (the)
+256,Texas,United States of America (the)
+257,Maine,United States of America (the)
+258,Leon,Nicaragua
+259,Leon,Nicaragua
+260,Matagalpa,Nicaragua
+261,New York,United States of America (the)
+262,California,United States of America (the)
+263,Yoro,Honduras
+264,Chiang Mai,Thailand
+265,Montana,United States of America (the)
+266,New Jersey,United States of America (the)
+267,Virginia,United States of America (the)
+268,California,United States of America (the)
+269,California,United States of America (the)
+270,California,United States of America (the)
+271,Cortes,Honduras
+272,Cortes,Honduras
+273,Cortes,Honduras
+274,Tennessee,United States of America (the)
+275,--,Thailand
+276,MICHOACAN,Thailand
+277,New Jersey,United States of America (the)
+278,Minnesota,United States of America (the)
+279,Bahia,Brazil
+280,MG,Brazil
+281,Rhode Island,United States of America (the)
+282,Sao Paulo,Brazil
+283,Florida,United States of America (the)
+284,Lima,Peru
+285,Missouri,United States of America (the)
+286,Hawaii,United States of America (the)
+287,Massachusetts,United States of America (the)
+288,Santa Rosa,Guatemala
+289,Iowa,United States of America (the)
+290,Florida,United States of America (the)
+291,Pennsylvania,United States of America (the)
+292,Missouri,United States of America (the)
+293,Missouri,United States of America (the)
+294,Colorado,United States of America (the)
+295,Colorado,United States of America (the)
+296,MAGDALENA,Colombia
+297,Cusco,Peru
+298,MAGDALENA,Colombia
+299,León,Nicaragua
+300,California,United States of America (the)
+301,Amazonas,Peru
+302,Wisconsin,United States of America (the)
+303,CHIAPAS,Mexico
+304,Cortes,Honduras
+305,Cortes,Honduras
+306,Cortes,Honduras
+307,MG,Brazil
+308,"Dili,",Timor-Leste
+309,SAN JOSE,Costa Rica
+310,Heredia,Costa Rica
+311,MONTERREY,Mexico
+312,Risaralda,Colombia
+313,Cortes,Honduras
+314,Cortes,Honduras
+315,Cortes,Honduras
+316,Cortes,Honduras
+317,La Paz,Honduras
+318,La Paz,Honduras
+319,Oaxaca,Mexico
+320,ANTIOQUIA,Colombia
+321,Rio Grande do Sul,Brazil
+322,Lambayeque,Peru
+323,"Motozintla, Chiapas",Mexico
+324,Oaxaca,Mexico
+325,CHIAPAS,Mexico
+326,Minnesota,United States of America (the)
+327,CHIAPAS,Mexico
+328,Chiriquí,Panama
+329,Virginia,United States of America (the)
+330,Maine,United States of America (the)
+331,Ocotepeque,Honduras
+332,Ocotepeque,Honduras
+333,Ocotepeque,Honduras
+334,Amazonas,Peru
+335,California,United States of America (the)
+336,Matagalpa,Nicaragua
+337,Matagalpa,Nicaragua
+338,La Paz,Honduras
+339,La Paz,Honduras
+340,La Paz,Honduras
+341,ALAJUELA,Costa Rica
+342,La Paz,Honduras
+343,La Paz,Honduras
+344,CHIAPAS,Mexico
+345,QUINDIO,Colombia
+346,Ocotepeque,Honduras
+347,California,United States of America (the)
+348,Minas Gerais,Brazil
+349,Guatemala,Guatemala
+350,Minas Gerais,Brazil
+351,Geneva,Switzerland
+352,San Martin,Peru
+353,Chiapas,Mexico
+354,Copan,Honduras
+355,Copan,Honduras
+356,Copan,Honduras
+357,Copan,Honduras
+358,Copan,Honduras
+359,Chiapas,Mexico
+360,Copan,Honduras
+361,Ocotepeque,Honduras
+362,CIUDAD DE MEXICO,Mexico
+363,Copan,Honduras
+364,Copan,Honduras
+365,Copan,Honduras
+366,San Pedro Sula,Honduras
+367,Cortes,Honduras
+368,Cortes,Honduras
+369,Cortes,Honduras
+370,Nayarit,Mexico
+371,Chiapas,Mexico
+372,Veracruz,Mexico
+373,Oaxaca,Mexico
+374,Lima,Peru
+375,Lima,Peru
+376,Lima,Peru
+377,Matagalpa,Nicaragua
+378,Matagalpa,Nicaragua
+379,Copán,Honduras
+380,CHIAPAS,Mexico
+381,"Risaralda, Pereira",Colombia
+382,Chihuahua,Mexico
+383,Oaxaca,Mexico
+384,Risaralda,Colombia
+385,Utah,United States of America (the)
+386,Kentucky,United States of America (the)
+387,Oregon,United States of America (the)
+388,Jaen,Peru
+389,VERACRUZ,Mexico
+390,Veracruz,Mexico
+391,Comayagua.,Honduras
+392,Cajamarca,Peru
+393,California,United States of America (the)
+394,Minnesota,United States of America (the)
+395,CHIAPAS,Mexico
+396,Connecticut,United States of America (the)
+397,Florida,United States of America (the)
+398,New York,United States of America (the)
+399,California,United States of America (the)
+400,Jinotega,Nicaragua
+401,Quindio,Colombia
+402,Guatemala,Guatemala
+403,BOGOTA,Colombia
+404,California,United States of America (the)
+405,New Jersey,United States of America (the)
+406,California,United States of America (the)
+407,Ohio,United States of America (the)
+408,Motozintla,Mexico
+409,Chiriquí,Panama
+410,Oregon,United States of America (the)
+411,Utah,United States of America (the)
+412,Chiapas,Mexico
+413,San José,Costa Rica
+414,Managua,Nicaragua
+415,Managua,Nicaragua
+416,La Paz,Bolivia (Plurinational State of)
+417,Perené,Peru
+418,Chiclayo,Peru
+419,Lambayeque,Peru
+420,Esteli,Nicaragua
+421,Cusco,Peru
+422,Matagalpa,Nicaragua
+423,Matagalpa,Nicaragua
+424,Matagalpa,Nicaragua
+425,Matagalpa,Nicaragua
+426,Matagalpa,Nicaragua
+427,Estelí,Nicaragua
+428,Estelí,Nicaragua
+429,Estelí,Nicaragua
+430,Lima,Peru
+431,San Ignacio,Peru
+432,Pasco,Peru
+433,Pasco,Peru
+434,Chiapas,Mexico
+435,Chiapas,Mexico
+436,Chiriquí,Panama
+437,California,United States of America (the)
+438,Solola,Guatemala
+439,San Marcos,Guatemala
+440,Solola,Guatemala
+441,Chanchamayo,Peru
+442,Ohio,United States of America (the)
+443,Texas,United States of America (the)
+444,South Carolina,United States of America (the)
+445,Rhode Island,United States of America (the)
+446,New York,United States of America (the)
+447,South Dakota,United States of America (the)
+448,Maryland,United States of America (the)
+449,Nevada,United States of America (the)
+450,New York,United States of America (the)
+451,California,United States of America (the)
+452,Ahuachapan,El Salvador
+453,Magdalena,Colombia
+454,Minnesota,United States of America (the)
+455,California,United States of America (the)
+456,Montana,United States of America (the)
+457,Georgia,United States of America (the)
+458,Minas Gerais,Brazil
+459,California,United States of America (the)
+460,Georgia,United States of America (the)
+461,California,United States of America (the)
+462,Hawaii,United States of America (the)
+463,Florida,United States of America (the)
+464,South Carolina,United States of America (the)
+465,California,United States of America (the)
+466,California,United States of America (the)
+467,Bogota,Colombia
+468,Sao Paulo,Brazil
+469,California,United States of America (the)
+470,Colorado,United States of America (the)
+471,Florida,United States of America (the)
+472,Cortes,Honduras
+473,New Jersey,United States of America (the)
+474,Oregon,United States of America (the)
+475,Bangkok,Thailand
+476,California,United States of America (the)
+477,Gulmi,Nepal
+478,Gulmi,Nepal
+479,California,United States of America (the)
+480,New York,United States of America (the)
+481,New Jersey,United States of America (the)
+482,Michigan,United States of America (the)
+483,Villa Rica,Peru
+484,Pasco,Peru
+485,Huila,Colombia
+486,Copan,Honduras
+487,Copan,Honduras
+488,California,United States of America (the)
+489,HB,Germany
+490,Massachusetts,United States of America (the)
+491,Wisconsin,United States of America (the)
+492,Nevada,United States of America (the)
+493,Indiana,United States of America (the)
+494,Cortes,Honduras
+495,Cortes,Honduras
+496,San Pedro Sula,Honduras
+497,Chiapas,Mexico
+498,Copan,Honduras
+499,Guatemala,Guatemala
+500,Oaxaca,Mexico
+501,Oaxaca,Mexico
+502,Lima,Peru
+503,Massachusetts,United States of America (the)
+504,CHIAPAS,Mexico
+505,Parana,Brazil
+506,Cajamarca,Peru
+507,Caldas,Colombia
+508,Cortes,Honduras
+509,Cortes,Honduras
+510,Cortes,Honduras
+511,Cortes,Honduras
+512,Cortes,Honduras
+513,San Pedro Sula,Honduras
+514,Pichanaki,Peru
+515,Oaxaca,Mexico
+516,Oaxaca,Mexico
+517,CHIAPAS,Mexico
+518,Chiapas,Mexico
+519,Chiapas,Mexico
+520,Chiapas,Mexico
+521,Oaxaca,Mexico
+522,Chiapas,Mexico
+523,Lima,Peru
+524,New Jersey,United States of America (the)
+525,Virginia,United States of America (the)
+526,Texas,United States of America (the)
+527,San Jose,Costa Rica
+528,Montana,United States of America (the)
+529,Jinotega,Nicaragua
+530,Managua,Nicaragua
+531,Cajamarca,Peru
+532,San Martin,Peru
+533,San Martin,Peru
+534,Junin,Peru
+535,Cajamarca,Peru
+536,Ayacucho,Peru
+537,Cajamarca,Peru
+538,San Martin,Peru
+539,San Martín,Peru
+540,Cajamarca,Peru
+541,Amazonas,Peru
+542,Junin,Peru
+543,Junín,Peru
+544,Cusco,Peru
+545,Cajamarca,Peru
+546,Cusco,Peru
+547,Cusco,Peru
+548,Junin,Peru
+549,JUNIN,Peru
+550,Cusco,Peru
+551,LUYA,Peru
+552,Chanchamayo,Peru
+553,Junin,Peru
+554,Junin,Peru
+555,Amazonas,Peru
+556,JUNIN,Peru
+557,Cusco,Peru
+558,San Juan del Oro,Peru
+559,Bagua Grande,Peru
+560,Junin,Peru
+561,Junin,Peru
+562,Junin,Peru
+563,San Ignacio,Peru
+564,Apurimac,Peru
+565,Junin,Peru
+566,Junin,Peru
+567,Cajamarca,Peru
+568,Cajamarca,Peru
+569,Cajamarca,Peru
+570,Cajamarca,Peru
+571,Cajamarca,Peru
+572,Cajamarca,Peru
+573,Cajamarca,Peru
+574,Cajamarca,Peru
+575,Cajamarca,Peru
+576,Cajamarca,Peru
+577,Amazonas,Peru
+578,Lambayeque,Peru
+579,San Ignacio - Cajamarca,Peru
+580,Junin,Peru
+581,Piura,Peru
+582,Piura,Peru
+583,Piura,Peru
+584,Amazonas,Peru
+585,Amazonas,Peru
+586,Cajamarca,Peru
+587,Cajamarca,Peru
+588,Cajamarca,Peru
+589,JUNIN,Peru
+590,Cusco,Peru
+591,Cajamarca,Peru
+592,San Ignacio,Peru
+593,JAEN,Peru
+594,La Paz,Bolivia (Plurinational State of)
+595,Copán,Honduras
+596,Copán,Honduras
+597,La Paz,Bolivia (Plurinational State of)
+598,Copan,Honduras
+599,Copan,Honduras
+600,Copan,Honduras
+601,Matagalpa,Nicaragua
+602,Huehuetenango,Guatemala
+603,San Marcos,Guatemala
+604,La Paz,Honduras
+605,Junín,Peru
+606,JUNIN,Peru
+607,Junin,Peru
+608,"Junín,",Peru
+609,Junin,Peru
+610,JUNIN,Peru
+611,Junín,Peru
+612,JUNIN,Peru
+613,Pasco,Peru
+614,Huanuco,Peru
+615,Junín,Peru
+616,Junín,Peru
+617,Junin,Peru
+618,Intibuca,Honduras
+619,La Paz,Honduras
+620,La Paz,Honduras
+621,La Paz,Bolivia (Plurinational State of)
+622,La Paz,Honduras
+623,La Paz,Honduras
+624,La Paz,Honduras
+625,Junin,Peru
+626,Santa Barbara,Honduras
+627,La Paz,Bolivia (Plurinational State of)
+628,Madriz,Nicaragua
+629,Rondônia,Brazil
+630,Copan,Honduras
+631,Copan,Honduras
+632,Esteli,Nicaragua
+633,Chanchamayo,Peru
+634,Esteli,Nicaragua
+635,La Paz,Bolivia (Plurinational State of)
+636,La Paz,Bolivia (Plurinational State of)
+637,La Paz,Bolivia (Plurinational State of)
+638,Madriz,Nicaragua
+639,Intibuca,Honduras
+640,San Juan Intibuca,Honduras
+641,Intibuca,Honduras
+642,Intibuca,Honduras
+643,Intibuca,Honduras
+644,La Paz,Honduras
+645,La Paz,Honduras
+646,La Paz,Honduras
+647,La Paz,Honduras
+648,La paz,Bolivia (Plurinational State of)
+649,Planadas,Colombia
+650,Dili District,Timor-Leste
+651,Ocotepeque,Honduras
+652,Ocotepeque,Honduras
+653,Ocotepeque,Honduras
+654,Ocotepeque,Honduras
+655,Copan,Honduras
+656,Copan,Honduras
+657,Copan,Honduras
+658,Copan,Honduras
+659,Copan,Honduras
+660,Copan,Honduras
+661,Copan,Honduras
+662,Ocotepeque,Honduras
+663,Ocotepeque,Honduras
+664,Ocotepeque,Honduras
+665,Ocotepeque,Honduras
+666,Copan,Honduras
+667,Ocotepeque,Honduras
+668,Ocotepeque,Honduras
+669,Copan,Honduras
+670,Ocotepeque,Honduras
+671,Ocotepeque,Honduras
+672,Ocotepeque,Honduras
+673,Ocotepeque,Honduras
+674,Olancho,Honduras
+675,Olancho,Honduras
+676,Ocotepeque,Honduras
+677,Ocotepeque,Honduras
+678,Ocotepeque,Honduras
+679,Ocotepeque,Honduras
+680,Choluteca,Honduras
+681,Choluteca,Honduras
+682,Choluteca,Honduras
+683,Ocotepeque,Honduras
+684,Amazonas,Peru
+685,Amazonas,Peru
+686,Ciudad Sandino,Nicaragua
+687,La Paz,Honduras
+688,La Paz,Honduras
+689,Quindio,Colombia
+690,Managua,Nicaragua
+691,Rivas,Nicaragua
+692,Rivas,Nicaragua
+693,Rivas,Nicaragua
+694,Ocotepeque,Honduras
+695,Ocotepeque,Honduras
+696,Ocotepeque,Honduras
+697,Leon,Nicaragua
+698,Ocotepeque,Honduras
+699,Ocotepeque,Honduras
+700,Ocotepeque,Honduras
+701,JUNIN,Peru
+702,CHIAPAS,Mexico
+703,Ocotepeque,Honduras
+704,Ocotepeque,Honduras
+705,Ocotepeque,Honduras
+706,Bahia,Brazil
+707,Lempira,Honduras
+708,Lempira,Honduras
+709,Lempira,Honduras
+710,Amazonas,Peru
+711,Rivas,Nicaragua
+712,Rivas,Nicaragua
+713,Rivas,Nicaragua
+714,Nueva Segovia,Nicaragua
+715,San Martin,Peru
+716,San Martin,Peru
+717,San Martin,Peru
+718,Cajamarca,Peru
+719,San Martin,Peru
+720,San Martin,Peru
+721,San Martin,Peru
+722,Cajamarca,Peru
+723,Cajamarca,Peru
+724,Cajamarca,Peru
+725,Cajamarca,Peru
+726,Cajamarca,Peru
+727,Madriz,Nicaragua
+728,San Martín,Peru
+729,San Martín,Peru
+730,Jinotega,Nicaragua
+731,Nueva Segovia,Nicaragua
+732,Matagalpa,Nicaragua
+733,Matagalpa,Nicaragua
+734,Cajamarca,Peru
+735,Cajamarca,Peru
+736,Jaén,Peru
+737,Amazonas,Peru
+738,Nueva Segovia,Nicaragua
+739,Jinotega,Nicaragua
+740,Matagalpa,Nicaragua
+741,Nueva Segovia,Nicaragua
+742,Nueva Segovia,Nicaragua
+743,Cajamarca,Peru
+744,Cajamarca,Peru
+745,Cajamarca,Peru
+746,Amazonas,Peru
+747,Matagalpa,Nicaragua
+748,Cauca,Colombia
+749,MG,Brazil
+750,Minas Gerais,Brazil
+751,Minas Gerais,Brazil
+752,Ilheus,Brazil
+753,San Marcos,Guatemala
+754,Chimaltenango,Guatemala
+755,San Marcos,Guatemala
+756,Huehuetenango,Guatemala
+757,San Marcos,Guatemala
+758,La Paz,Bolivia (Plurinational State of)
+759,La Paz,Bolivia (Plurinational State of)
+760,La Paz,Bolivia (Plurinational State of)
+761,Quiche,Guatemala
+762,San Marcos,Guatemala
+763,San Marcos,Guatemala
+764,Quiche,Guatemala
+765,Santa Rosa,Guatemala
+766,Quiche,Guatemala
+767,La Paz,Bolivia (Plurinational State of)
+768,Quiche,Guatemala
+769,Matagalpa,Nicaragua
+770,Sonsonate,El Salvador
+771,Sonsonate,El Salvador
+772,PUEBLA,Mexico
+773,Copan,Honduras
+774,La Paz,Honduras
+775,La Paz,Honduras
+776,Intibucá,Honduras
+777,La Paz,Honduras
+778,Copán,Honduras
+779,Copán,Honduras
+780,Santa Bárbara,Honduras
+781,Santa Bárbara,Honduras
+782,La Paz,Honduras
+783,La Paz,Honduras
+784,La Paz,Honduras
+785,Francisco Morazán,Honduras
+786,Francisco Morazán,Honduras
+787,Francisco Morazán,Honduras
+788,Yoro,Honduras
+789,Yoro,Honduras
+790,Cauca,Colombia
+791,Madriz,Nicaragua
+792,Madriz,Nicaragua
+793,Madriz,Nicaragua
+794,San Juan del Rio Coco,Nicaragua
+795,Madriz,Nicaragua
+796,Jinotega,Nicaragua
+797,Madriz,Nicaragua
+798,Madriz,Nicaragua
+799,Jinotega,Nicaragua
+800,Estelí,Nicaragua
+801,Estelí,Nicaragua
+802,Jinotega,Nicaragua
+803,Jinotega,Nicaragua
+804,Departamento de Nueva Segovia,Nicaragua
+805,Matagalpa,Nicaragua
+806,Matagalpa,Nicaragua
+807,Copan,Honduras
+808,Corquin,Honduras
+809,Corquin,Honduras
+810,Intibuca,Honduras
+811,Intibuca,Honduras
+812,Minas Gerais,Brazil
+813,La Paz,Honduras
+814,La Paz,Honduras
+815,Jinotega,Nicaragua
+816,Cap Haitien,Haiti
+817,Minas Gerais,Brazil
+818,VERACRUZ,Mexico
+819,OAXACA,Mexico
+820,OAXACA,Mexico
+821,Indiana,United States of America (the)
+822,Iowa,United States of America (the)
+823,La Paz,Bolivia (Plurinational State of)
+824,Junin,Peru
+825,Bolívar,Ecuador
+826,La Paz,Honduras
+827,CHIAPAS,Mexico
+828,Oregon,United States of America (the)
+829,North Carolina,United States of America (the)
+830,California,United States of America (the)
+831,Madríz,Nicaragua
+832,HB,Germany
+833,Maryland,United States of America (the)
+834,Illinois,United States of America (the)
+835,Ohio,United States of America (the)
+836,Ohio,United States of America (the)
+837,New York,United States of America (the)
+838,Minnesota,United States of America (the)
+839,Jawa Tengah,Indonesia
+840,Aceh,Indonesia
+841,Sumatra Utara,Indonesia
+842,Sumatera Utara,Indonesia
+843,Sumatera Utara,Indonesia
+844,Sumatera Utara,Indonesia
+845,Sumatera Utara,Indonesia
+846,Utah,United States of America (the)
+847,Missouri,United States of America (the)
+848,São Paulo,Brazil
+849,Hawaii,United States of America (the)
+850,Minas Gerais,Brazil
+851,Rhode Island,United States of America (the)
+852,Idaho,United States of America (the)
+853,California,United States of America (the)
+854,Massachusetts,United States of America (the)
+855,New York,United States of America (the)
+856,Chiapas,Mexico
+857,Veracruz,Mexico
+858,Colorado,United States of America (the)
+859,Guatemala,Guatemala
+860,Chiangrai,Thailand
+861,Chiang Mai,Thailand
+862,Chiang Mai,Thailand
+863,Idaho,United States of America (the)
+864,Granada,Nicaragua
+865,Minnesota,United States of America (the)
+866,North Carolina,United States of America (the)
+867,Maryland,United States of America (the)
+868,Wisconsin,United States of America (the)
+869,Vermont,United States of America (the)
+870,California,United States of America (the)
+871,Pennsylvania,United States of America (the)
+872,MAGDALENA,Colombia
+873,San Jose,Costa Rica
+874,MAGDALENA,Colombia
+875,Cajamarca,Peru
+876,SANTANDER,Colombia
+877,Santander,Colombia
+878,New York,United States of America (the)
+879,New Jersey,United States of America (the)
+880,California,United States of America (the)
+881,New York,United States of America (the)
+882,Copan,Honduras
+883,Copan,Honduras
+884,Copan,Honduras
+885,Intibuca,Honduras
+886,Ocotepeque,Honduras
+887,Ocotepeque,Honduras
+888,Ocotepeque,Honduras
+889,Cortes,Honduras
+890,Cortes,Honduras
+891,Santa Bárbara,Honduras
+892,Santa Bárbara,Honduras
+893,La Paz,Honduras
+894,Copan,Honduras
+895,Heredia,Costa Rica
+896,Matagalpa,Nicaragua
+897,San Martin,Peru
+898,San Martin,Peru
+899,Chiapas,Mexico
+900,Colorado,United States of America (the)
+901,California,United States of America (the)
+902,Connecticut,United States of America (the)
+903,Chiapas,Mexico
+904,Sacatepequez,Guatemala
+905,Oregon,United States of America (the)
+906,California,United States of America (the)
+907,Sololá,Guatemala
+908,San Martin,Peru
+909,California,United States of America (the)
+910,Colorado,United States of America (the)
+911,Massachusetts,United States of America (the)
+912,California,United States of America (the)
+913,Minnesota,United States of America (the)
+914,California,United States of America (the)
+915,Hong Kong,Hong Kong
+916,Rhode Island,United States of America (the)
+917,California,United States of America (the)
+918,Lima,Peru
+919,Cauca,Colombia
+920,Matagalpa,Nicaragua
+921,Quiche,Guatemala
+922,Veracruz,Mexico
+923,VERACRUZ,Mexico
+924,Cortes,Honduras
+925,Cortes,Honduras
+926,ATLANTICO,Colombia
+927,Minas Gerais,Brazil
+928,La Paz,Honduras
+929,La Paz,Honduras
+930,La Paz,Honduras
+931,La Paz,Honduras
+932,SANTANDER,Colombia
+933,Junín,Peru
+934,Santa Rosa,Guatemala
+935,Minnesota,United States of America (the)
+936,California,United States of America (the)
+937,New Jersey,United States of America (the)
+938,Sao Paulo,Brazil
+939,California,United States of America (the)
+940,Texas,United States of America (the)
+941,Texas,United States of America (the)
+942,Wisconsin,United States of America (the)
+943,Massachusetts,United States of America (the)
+944,Bahia,Brazil
+945,San Marcos,Guatemala
+946,San Marcos,Guatemala
+947,San Marcos,Guatemala
+948,Guatemala,Guatemala
+949,Managua,Nicaragua
+950,Managua,Nicaragua
+951,Managua,Nicaragua
+952,Copan,Honduras
+953,Copan,Honduras
+954,Copan,Honduras
+955,Copan,Honduras
+956,Copan,Honduras
+957,Chiapas,Mexico
+958,Chiapas,Mexico
+959,Chiapas,Mexico
+960,Chiapas,Mexico
+961,CALDAS,Colombia
+962,São Paulo,Brazil
+963,Michigan,United States of America (the)
+964,Guatemala,Guatemala
+965,San Marcos,Guatemala
+966,Yoro,Honduras
+967,Yoro,Honduras
+968,Mexico,Mexico
+969,Carazo,Nicaragua
+970,Chimaltenango,Guatemala
+971,Chiriquí,Panama
+972,Chiriquí,Panama
+973,Chiriquí,Panama
+974,Pochuta,Guatemala
+975,Cajamarca,Peru
+976,Cajamarca,Peru
+977,Chiquimula,Guatemala
+978,Guatemala,Guatemala
+979,Chiapas,Mexico
+980,Oaxaca,Mexico
+981,Oaxaca,Mexico
+982,Sacatepequez,Guatemala
+983,Veracruz,Mexico
+984,Chiapas,Mexico
+985,Jinotega,Nicaragua
+986,Jinotega,Nicaragua
+987,Chiapas,Mexico
+988,Suchitepequez,Guatemala
+989,Yoro,Honduras
+990,Nueva Segovia,Nicaragua
+991,Santa Barbara,Honduras
+992,Huehuetenango,Guatemala
+993,Pochuta,Guatemala
+994,Oaxaca,Mexico
+995,Morona Santiago,Ecuador
+996,Guatemala,Guatemala
+997,Guatemala,Guatemala
+998,Oaxaca,Mexico
+999,Tolima,Colombia
+1000,Santander,Colombia
+1001,Pochuta,Guatemala
+1002,Choluteca,Honduras
+1003,Corquin,Honduras
+1004,CHIAPAS,Mexico
+1005,New York,United States of America (the)
+1006,Rhode Island,United States of America (the)
+1007,Rhode Island,United States of America (the)
+1008,Arizona,United States of America (the)
+1009,New Jersey,United States of America (the)
+1010,Missouri,United States of America (the)
+1011,California,United States of America (the)
+1012,California,United States of America (the)
+1013,Ohio,United States of America (the)
+1014,California,United States of America (the)
+1015,Chiapas,Mexico
+1016,Washington,United States of America (the)
+1017,São Paulo,Brazil
+1018,California,United States of America (the)
+1019,Idaho,United States of America (the)
+1020,Illinois,United States of America (the)
+1021,Wisconsin,United States of America (the)
+1022,California,United States of America (the)
+1023,California,United States of America (the)
+1024,California,United States of America (the)
+1025,Minas Gerais,Brazil
+1026,SANTANDER,Colombia
+1027,Oregon,United States of America (the)
+1028,Pennsylvania,United States of America (the)
+1029,Iowa,United States of America (the)
+1030,Iowa,United States of America (the)
+1031,Iowa,United States of America (the)
+1032,New York,United States of America (the)
+1033,California,United States of America (the)
+1034,La Unión Nariño,Colombia
+1035,North Carolina,United States of America (the)
+1036,OAXACA,Mexico
+1037,Pennsylvania,United States of America (the)
+1038,Michigan,United States of America (the)
+1039,Minnesota,United States of America (the)
+1040,Minnesota,United States of America (the)
+1041,Montana,United States of America (the)
+1042,New York,United States of America (the)
+1043,New York,United States of America (the)
+1044,New Jersey,United States of America (the)
+1045,Michigan,United States of America (the)
+1046,Oregon,United States of America (the)
+1047,Massachusetts,United States of America (the)
+1048,New York,United States of America (the)
+1049,California,United States of America (the)
+1050,California,United States of America (the)
+1051,Pennsylvania,United States of America (the)
+1052,California,United States of America (the)
+1053,New Hampshire,United States of America (the)
+1054,Tennessee,United States of America (the)
+1055,Pennsylvania,United States of America (the)
+1056,Michigan,United States of America (the)
+1057,Georgia,United States of America (the)
+1058,Maine,United States of America (the)
+1059,New Hampshire,United States of America (the)
+1060,Copan,Honduras
+1061,Georgia,United States of America (the)
+1062,Florida,United States of America (the)
+1063,Michigan,United States of America (the)
+1064,Wyoming,United States of America (the)
+1065,Michigan,United States of America (the)
+1066,Texas,United States of America (the)
+1067,Colorado,United States of America (the)
+1068,California,United States of America (the)
+1069,California,United States of America (the)
+1070,Virginia,United States of America (the)
+1071,Vermont,United States of America (the)
+1072,Massachusetts,United States of America (the)
+1073,New York,United States of America (the)
+1074,Oregon,United States of America (the)
+1075,Huila,Colombia
+1076,Managua,Nicaragua
+1077,Chiapas,Mexico
+1078,Ciudad de México,Mexico
+1079,Cartago,Costa Rica
+1080,Nayarit,Mexico
+1081,Nayarit,Mexico
+1082,Maine,United States of America (the)
+1083,Santander,Colombia
+1084,Copan,Honduras
+1085,New York,United States of America (the)
+1086,HH,Germany
+1087,New York,United States of America (the)
+1088,California,United States of America (the)
+1089,Idaho,United States of America (the)
+1090,SINALOA,Mexico
+1091,New York,United States of America (the)
+1092,North Carolina,United States of America (the)
+1093,Indiana,United States of America (the)
+1094,California,United States of America (the)
+1095,Hawaii,United States of America (the)
+1096,Lima,Peru
+1097,Kentucky,United States of America (the)
+1098,New York,United States of America (the)
+1099,Minas Gerais,Brazil
+1100,Espirito Santo,Brazil
+1101,California,United States of America (the)
+1102,Nevada,United States of America (the)
+1103,Michigan,United States of America (the)
+1104,Wisconsin,United States of America (the)
+1105,Kathmandu,Nepal
+1106,Hawaii,United States of America (the)
+1107,Pennsylvania,United States of America (the)
+1108,San Pedro Sula,Honduras
+1109,La Paz,Honduras
+1110,La Paz,Honduras
+1111,La Paz,Honduras
+1112,Minas Gerais,Brazil
+1113,Wisconsin,United States of America (the)
+1114,California,United States of America (the)
+1115,Indiana,United States of America (the)
+1116,Hawaii,United States of America (the)
+1117,Sao Paulo,Brazil
+1118,California,United States of America (the)
+1119,Colorado,United States of America (the)
+1120,Montana,United States of America (the)
+1121,Noord Holland,Netherlands (the)
+1122,Zhejiang Province,China
+1123,Sao Paulo,Brazil
+1124,California,United States of America (the)
+1125,California,United States of America (the)
+1126,California,United States of America (the)
+1127,CHIAPAS,Mexico
+1128,Matagalpa,Nicaragua
+1129,NUEVA SEGOVIA,Nicaragua
+1130,La Paz,Bolivia (Plurinational State of)
+1131,BOGOTA,Colombia
+1132,Texas,United States of America (the)
+1133,CHIAPAS,Mexico
+1134,Massachusetts,United States of America (the)
+1135,California,United States of America (the)
+1136,ANTIOQUIA,Colombia
+1137,Minas Gerais,Brazil
+1138,Lambayeque,Peru
+1139,Chiapas,Mexico
+1140,Jalisco,Mexico
+1141,Huanuco,Peru
+1142,Huanuco,Peru
+1143,Guatemala,Guatemala
+1144,California,United States of America (the)
+1145,Cajamarca,Peru
+1146,California,United States of America (the)
+1147,Illinois,United States of America (the)
+1148,Texas,United States of America (the)
+1149,Oaxaca,Mexico
+1150,Florida,United States of America (the)
+1151,California,United States of America (the)
+1152,California,United States of America (the)
+1153,Louisiana,United States of America (the)
+1154,New York,United States of America (the)
+1155,Florida,United States of America (the)
+1156,Copan,Honduras
+1157,Copan,Honduras
+1158,Guatemala,Guatemala
+1159,Ocotepeque,Honduras
+1160,Ocotepeque,Honduras
+1161,Ocotepeque,Honduras
+1162,La Paz,Honduras
+1163,New York,United States of America (the)
+1164,New York,United States of America (the)
+1165,Jinotega,Nicaragua
+1166,Massachusetts,United States of America (the)
+1167,Wyoming,United States of America (the)
+1168,MICHOCAN,Mexico
+1169,Missouri,United States of America (the)
+1170,California,United States of America (the)
+1171,California,United States of America (the)
+1172,Oklahoma,United States of America (the)
+1173,North Carolina,United States of America (the)
+1174,Florida,United States of America (the)
+1175,Washington,United States of America (the)
+1176,Washington,United States of America (the)
+1177,Indiana,United States of America (the)
+1178,California,United States of America (the)
+1179,California,United States of America (the)
+1180,Massachusetts,United States of America (the)
+1181,California,United States of America (the)
+1182,Santa Rosa,Guatemala
+1183,Georgia,United States of America (the)
+1184,Santa Catarina,Brazil
+1185,District of Columbia,United States of America (the)
+1186,Minas Gerais,Brazil
+1187,North Carolina,United States of America (the)
+1188,California,United States of America (the)
+1189,Florida,United States of America (the)
+1190,Michigan,United States of America (the)
+1191,California,United States of America (the)
+1192,PUEBLA,Mexico
+1193,Minas Gerais,Brazil
+1194,Sao Paulo,Brazil
+1195,São Paulo,Brazil
+1196,Minas Gerais,Brazil
+1197,Minas Gerais,Brazil
+1198,Parana,Brazil
+1199,Parana,Brazil
+1200,Michigan,United States of America (the)
+1201,Indiana,United States of America (the)
+1202,Wisconsin,United States of America (the)
+1203,Tennessee,United States of America (the)
+1204,Hawaii,United States of America (the)
+1205,Sao Paulo,Brazil
+1206,New Jersey,United States of America (the)
+1207,Hawaii,United States of America (the)
+1208,Missouri,United States of America (the)
+1209,Hawaii,United States of America (the)
+1210,NAD,Indonesia
+1211,Maine,United States of America (the)
+1212,Vermont,United States of America (the)
+1213,Washington,United States of America (the)
+1214,Tennessee,United States of America (the)
+1215,Cajamarca,Peru
+1216,California,United States of America (the)
+1217,Matagalpa,Nicaragua
+1218,California,United States of America (the)
+1219,New Jersey,United States of America (the)
+1220,California,United States of America (the)
+1221,Hawaii,United States of America (the)
+1222,Hawaii,United States of America (the)
+1223,Hawaii,United States of America (the)
+1224,Provinsi Aceh,Indonesia
+1225,Aceh,Indonesia
+1226,Aceh,Indonesia
+1227,Aceh,Indonesia
+1228,Aceh,Indonesia
+1229,Aceh,Indonesia
+1230,Aceh,Indonesia
+1231,Aceh,Indonesia
+1232,Aceh Tengah,Indonesia
+1233,Provinsi Aceh,Indonesia
+1234,Provinsi Aceh,Indonesia
+1235,Aceh,Indonesia
+1236,Aceh Tengah,Indonesia
+1237,Sumatera Utara,Indonesia
+1238,Aceh Tengah,Indonesia
+1239,Provinsi Aceh,Indonesia
+1240,Aceh,Indonesia
+1241,Illinois,United States of America (the)
+1242,Wisconsin,United States of America (the)
+1243,South Carolina,United States of America (the)
+1244,"Province Aceh,",Indonesia
+1245,Daerah Istimewa Yogyakarta,Indonesia
+1246,Aceh,Indonesia
+1247,"Aceh Tengah,",Indonesia
+1248,Hawaii,United States of America (the)
+1249,CHIAPAS,Mexico
+1250,Hawaii,United States of America (the)
+1251,New York,United States of America (the)
+1252,California,United States of America (the)
+1253,Texas,United States of America (the)
+1254,Texas,United States of America (the)
+1255,Junin,Peru
+1256,Pennsylvania,United States of America (the)
+1257,Jinotega,Nicaragua
+1258,Jinotega,Nicaragua
+1259,Jinotega,Nicaragua
+1260,Oaxaca,Mexico
+1261,Vermont,United States of America (the)
+1262,OAXACA,Mexico
+1263,Pennsylvania,United States of America (the)
+1264,New Jersey,United States of America (the)
+1265,Sao Paulo,Brazil
+1266,Idaho,United States of America (the)
+1267,Taiwan,Taiwan (Province of China)
+1268,North Carolina,United States of America (the)
+1269,New Jersey,United States of America (the)
+1270,Bahia,Brazil
+1271,Florida,United States of America (the)
+1272,Hawaii,United States of America (the)
+1273,Oklahoma,United States of America (the)
+1274,Hawaii,United States of America (the)
+1275,Virginia,United States of America (the)
+1276,California,United States of America (the)
+1277,Michigan,United States of America (the)
+1278,California,United States of America (the)
+1279,Idaho,United States of America (the)
+1280,Tolima,Colombia
+1281,Dolores,Colombia
+1282,Tolima,Colombia
+1283,Colorado,United States of America (the)
+1284,New York,United States of America (the)
+1285,New Jersey,United States of America (the)
+1286,Minnesota,United States of America (the)
+1287,Illinois,United States of America (the)
+1288,California,United States of America (the)
+1289,Cortes,Honduras
+1290,"Mexico, D.F.",Mexico
+1291,Lima,Peru
+1292,South Carolina,United States of America (the)
+1293,Colorado,United States of America (the)
+1294,Bahia,Brazil
+1295,California,United States of America (the)
+1296,Nevada,United States of America (the)
+1297,New York,United States of America (the)
+1298,São Paulo,Brazil
+1299,ANTIOQUIA,Colombia
+1300,Sao Paulo,Brazil
+1301,Colorado,United States of America (the)
+1302,Connecticut,United States of America (the)
+1303,Perene,Peru
+1304,California,United States of America (the)
+1305,Michigan,United States of America (the)
+1306,Nevada,United States of America (the)
+1307,Hawaii,United States of America (the)
+1308,Hawaii,United States of America (the)
+1309,Hawaii,United States of America (the)
+1310,Texas,United States of America (the)
+1311,Quetzaltenango,Guatemala
+1312,Delegacióm Cuauhtémoc,Mexico
+1313,Sao Paulo,Brazil
+1314,Chiriquí,Panama
+1315,Chiriquí,Panama
+1316,Virginia,United States of America (the)
+1317,California,United States of America (the)
+1318,Matagalpa,Nicaragua
+1319,Texas,United States of America (the)
+1320,Colorado,United States of America (the)
+1321,Arizona,United States of America (the)
+1322,Maryland,United States of America (the)
+1323,California,United States of America (the)
+1324,California,United States of America (the)
+1325,Minnesota,United States of America (the)
+1326,São Paulo,Brazil
+1327,New Jersey,United States of America (the)
+1328,New Jersey,United States of America (the)
+1329,Illinois,United States of America (the)
+1330,Mexico DF,Mexico
+1331,California,United States of America (the)
+1332,Minas Gerais,Brazil
+1333,New Jersey,United States of America (the)
+1334,Oaxaca,Mexico
+1335,NW CAMEROUN,Cameroon
+1336,Vermont,United States of America (the)
+1337,California,United States of America (the)
+1338,Pennsylvania,United States of America (the)
+1339,Cortes,Honduras
+1340,Cortes,Honduras
+1341,Maryland,United States of America (the)
+1342,Chiang Mai,Thailand
+1343,Montana,United States of America (the)
+1344,California,United States of America (the)
+1345,14,Ethiopia
+1346,Minnesota,United States of America (the)
+1347,California,United States of America (the)
+1348,California,United States of America (the)
+1349,Virginia,United States of America (the)
+1350,California,United States of America (the)
+1351,California,United States of America (the)
+1352,California,United States of America (the)
+1353,California,United States of America (the)
+1354,Lampang,Thailand
+1355,California,United States of America (the)
+1356,Matagalpa,Nicaragua
+1357,California,United States of America (the)
+1358,New Hampshire,United States of America (the)
+1359,LIMA,Peru
+1360,Massachusetts,United States of America (the)
+1361,Illinois,United States of America (the)
+1362,São Paulo,Brazil
+1363,Delaware,United States of America (the)
+1364,Ohio,United States of America (the)
+1365,Connecticut,United States of America (the)
+1366,California,United States of America (the)
+1367,California,United States of America (the)
+1368,Hawaii,United States of America (the)
+1369,Chanchamayo,Peru
+1370,Lima,Peru
+1371,Lima,Peru
+1372,Bahia,Brazil
+1373,Querétaro,Mexico
+1374,Ohio,United States of America (the)
+1375,California,United States of America (the)
+1376,Rhode Island,United States of America (the)
+1377,New Jersey,United States of America (the)
+1378,Illinois,United States of America (the)
+1379,Illinois,United States of America (the)
+1380,Illinois,United States of America (the)
+1381,Yunnan Province,China
+1382,California,United States of America (the)
+1383,Seberang Perai Tengah Penang,Malaysia
+1384,California,United States of America (the)
+1385,California,United States of America (the)
+1386,LIMA,Peru
+1387,--,Peru
+1388,New Mexico,United States of America (the)
+1389,Minas Gerais,Brazil
+1390,BOGOTA,Colombia
+1391,Chiapas,Mexico
+1392,Rhode Island,United States of America (the)
+1393,Cortes,Honduras
+1394,Cortes,Honduras
+1395,California,United States of America (the)
+1396,Connecticut,United States of America (the)
+1397,San Marcos,Guatemala
+1398,Ohio,United States of America (the)
+1399,Pennsylvania,United States of America (the)
+1400,Hawaii,United States of America (the)
+1401,Hawaii,United States of America (the)
+1402,Pathumthani,Thailand
+1403,California,United States of America (the)
+1404,Texas,United States of America (the)
+1405,Chiapa,Mexico
+1406,Alajuela,Costa Rica
+1407,Chihuahua,Mexico
+1408,Connecticut,United States of America (the)
+1409,Cajamarca,Peru
+1410,La Paz,Honduras
+1411,La Paz,Honduras
+1412,La Paz,Honduras
+1413,La Paz,Honduras
+1414,California,United States of America (the)
+1415,California,United States of America (the)
+1416,Virginia,United States of America (the)
+1417,Guatemala,Guatemala
+1418,California,United States of America (the)
+1419,New Jersey,United States of America (the)
+1420,Bangkok,Thailand
+1421,Santa Barbara,Honduras
+1422,Chiang Mai,Thailand
+1423,New York,United States of America (the)
+1424,Michigan,United States of America (the)
+1425,Texas,United States of America (the)
+1426,California,United States of America (the)
+1427,New York,United States of America (the)
+1428,Minas Gerais,Brazil
+1429,Sao Paulo,Brazil
+1430,Minas Gerais,Brazil
+1431,Minnesota,United States of America (the)
+1432,California,United States of America (the)
+1433,California,United States of America (the)
+1434,Washington,United States of America (the)
+1435,Hawaii,United States of America (the)
+1436,California,United States of America (the)
+1437,Lima,Peru
+1438,Lima,Peru
+1439,Lima,Peru
+1440,Mozonte,Nicaragua
+1441,Hawaii,United States of America (the)
+1442,New Jersey,United States of America (the)
+1443,Florida,United States of America (the)
+1444,California,United States of America (the)
+1445,Utah,United States of America (the)
+1446,Utah,United States of America (the)
+1447,Pennsylvania,United States of America (the)
+1448,Massachusetts,United States of America (the)
+1449,San Marcos,Guatemala
+1450,Ohio,United States of America (the)
+1451,Nuwakot,Nepal
+1452,Rio Grande do Norte,Brazil
+1453,Oregon,United States of America (the)
+1454,Louisiana,United States of America (the)
+1455,North Carolina,United States of America (the)
+1456,Utah,United States of America (the)
+1457,Arizona,United States of America (the)
+1458,Illinois,United States of America (the)
+1459,California,United States of America (the)
+1460,Wisconsin,United States of America (the)
+1461,Cundinamarca,Colombia
+1462,Lima,Peru
+1463,Lima,Peru
+1464,Lima,Peru
+1465,LIMA,Peru
+1466,Esteli,Nicaragua
+1467,Esteli,Nicaragua
+1468,Esteli,Nicaragua
+1469,Esteli,Nicaragua
+1470,Chiapas,Mexico
+1471,Chiapas,Mexico
+1472,CHIAPAS,Mexico
+1473,Honduras,Honduras
+1474,CHIAPAS,Mexico
+1475,Copan,Honduras
+1476,Copan,Honduras
+1477,CHIAPAS,Mexico
+1478,CHIAPAS,Mexico
+1479,Oaxaca,Mexico
+1480,Chiapas,Mexico
+1481,Ocotepeque,Honduras
+1482,chiapas,Mexico
+1483,La Paz,Honduras
+1484,Cajamarca,Peru
+1485,California,United States of America (the)
+1486,Lambayeque,Peru
+1487,Lambayeque,Peru
+1488,Lambayeque,Peru
+1489,California,United States of America (the)
+1490,Aceh,Indonesia
+1491,Nangroe Aceh Darussalam,Indonesia
+1492,Nanggore Aceh Darussalam,Indonesia
+1493,North Sumatera,Indonesia
+1494,DKI Jakarta,Indonesia
+1495,Jawa Barat,Indonesia
+1496,Sumatera Utara,Indonesia
+1497,Sumatera Utara,Indonesia
+1498,Sumatera Utara,Indonesia
+1499,Medan,Indonesia
+1500,East Java,Indonesia
+1501,Sumatera Utara,Indonesia
+1502,Sumatra Utara,Indonesia
+1503,Sulawesi Selatan,Indonesia
+1504,North Sumatera,Indonesia
+1505,Sumatera Utara,Indonesia
+1506,Sumatera Utara,Indonesia
+1507,Kansas,United States of America (the)
+1508,Yunnan Province,China
+1509,North Carolina,United States of America (the)
+1510,California,United States of America (the)
+1511,Arizona,United States of America (the)
+1512,California,United States of America (the)
+1513,Sao Paulo,Brazil
+1514,California,United States of America (the)
+1515,Maryland,United States of America (the)
+1516,Nebraska,United States of America (the)
+1517,Illinois,United States of America (the)
+1518,Illinois,United States of America (the)
+1519,BOGOTA,Colombia
+1520,Minas Gerais,Brazil
+1521,Lima,Peru
+1522,Puebla,Mexico
+1523,Ciudad de Mexico,Mexico
+1524,New York,United States of America (the)
+1525,Oaxaca,Mexico
+1526,Massachusetts,United States of America (the)
+1527,San Martin,Peru
+1528,Puebla,Mexico
+1529,California,United States of America (the)
+1530,New Mexico,United States of America (the)
+1531,Virginia,United States of America (the)
+1532,Hawaii,United States of America (the)
+1533,Minas Gerais,Brazil
+1534,California,United States of America (the)
+1535,New Jersey,United States of America (the)
+1536,Caldas,Colombia
+1537,JAEN,Peru
+1538,California,United States of America (the)
+1539,Indiana,United States of America (the)
+1540,Colorado,United States of America (the)
+1541,São Paulo,Brazil
+1542,Cajamarca,Peru
+1543,Maryland,United States of America (the)
+1544,Connecticut,United States of America (the)
+1545,California,United States of America (the)
+1546,Wisconsin,United States of America (the)
+1547,Louisiana,United States of America (the)
+1548,Missouri,United States of America (the)
+1549,Iowa,United States of America (the)
+1550,Montana,United States of America (the)
+1551,Oklahoma,United States of America (the)
+1552,Colorado,United States of America (the)
+1553,Hawaii,United States of America (the)
+1554,Missouri,United States of America (the)
+1555,New York,United States of America (the)
+1556,St.Andrew,Jamaica
+1557,California,United States of America (the)
+1558,New Jersey,United States of America (the)
+1559,Alabama,United States of America (the)
+1560,Alabama,United States of America (the)
+1561,California,United States of America (the)
+1562,Shan State,Myanmar
+1563,Arkansas,United States of America (the)
+1564,New Jersey,United States of America (the)
+1565,Michigan,United States of America (the)
+1566,North Carolina,United States of America (the)
+1567,North Carolina,United States of America (the)
+1568,Connecticut,United States of America (the)
+1569,Kentucky,United States of America (the)
+1570,San Pedro de Sula,Honduras
+1571,San Pedro Sula,Honduras
+1572,Matagalpa,Nicaragua
+1573,Chiang Mai,Thailand
+1574,California,United States of America (the)
+1575,Minas Gerais,Brazil
+1576,Chiangmai,Thailand
+1577,Santa Bárbara,Honduras
+1578,California,United States of America (the)
+1579,SANTANDER,Colombia
+1580,Paraiba,Brazil
+1581,Putla Oaxaca,Mexico
+1582,Chian Rai Province,Thailand
+1583,Wisconsin,United States of America (the)
+1584,New Jersey,United States of America (the)
+1585,California,United States of America (the)
+1586,CESAR,Colombia
+1587,Maine,United States of America (the)
+1588,Caldas,Colombia
+1589,Jaen,Peru
+1590,Illinois,United States of America (the)
+1591,Shaanxi Province,China
+1592,Pennsylvania,United States of America (the)
+1593,Connecticut,United States of America (the)
+1594,Bahia,Brazil
+1595,Massachusetts,United States of America (the)
+1596,Virginia,United States of America (the)
+1597,Shenyang,China
+1598,MAGDALENA,Colombia
+1599,Oaxaca,Mexico
+1600,California,United States of America (the)
+1601,California,United States of America (the)
+1602,Matagalpa,Nicaragua
+1603,Jalisco,Mexico
+1604,Minas Gerais,Brazil
+1605,Florida,United States of America (the)
+1606,Vatovavy Fitovinany,Madagascar
+1607,Hawaii,United States of America (the)
+1608,Vermont,United States of America (the)
+1609,Ohio,United States of America (the)
+1610,Wyoming,United States of America (the)
+1611,Vermont,United States of America (the)
+1612,Minnesota,United States of America (the)
+1613,La Paz,Bolivia (Plurinational State of)
+1614,La Paz,Bolivia (Plurinational State of)
+1615,La Paz,Bolivia (Plurinational State of)
+1616,Peten,Guatemala
+1617,SAN LUIS POTOSI,Mexico
+1618,Oaxaca,Guatemala
+1619,CHIAPAS,Mexico
+1620,San Luis Potosí,Mexico
+1621,Nord Kivu,Congo (the Democratic Republic of the)
+1622,ATLANTICO,Colombia
+1623,New Mexico,United States of America (the)
+1624,Colorado,United States of America (the)
+1625,Chiang Mai,Thailand
+1626,Parana,Brazil
+1627,SNNPR,Ethiopia
+1628,California,United States of America (the)
+1629,Vermont,United States of America (the)
+1630,Minnesota,United States of America (the)
+1631,Vermont,United States of America (the)
+1632,Michigan,United States of America (the)
+1633,La Vega,Dominican Republic (the)
+1634,Maine,United States of America (the)
+1635,New York,United States of America (the)
+1636,New Hampshire,United States of America (the)
+1637,California,United States of America (the)
+1638,Ohio,United States of America (the)
+1639,Pennsylvania,United States of America (the)
+1640,California,United States of America (the)
+1641,North Carolina,United States of America (the)
+1642,Oregon,United States of America (the)
+1643,West Virginia,United States of America (the)
+1644,Ohio,United States of America (the)
+1645,Vermont,United States of America (the)
+1646,California,United States of America (the)
+1647,California,United States of America (the)
+1648,California,United States of America (the)
+1649,Oregon,United States of America (the)
+1650,California,United States of America (the)
+1651,Wisconsin,United States of America (the)
+1652,Guatemala,Guatemala
+1653,New York,United States of America (the)
+1654,Pennsylvania,United States of America (the)
+1655,Noord-Brabant,Netherlands (the)
+1656,North Carolina,United States of America (the)
+1657,California,United States of America (the)
+1658,Minnesota,United States of America (the)
+1659,California,United States of America (the)
+1660,California,United States of America (the)
+1661,California,United States of America (the)
+1662,New Jersey,United States of America (the)
+1663,California,United States of America (the)
+1664,Esteli,Nicaragua
+1665,Oregon,United States of America (the)
+1666,North Dakota,United States of America (the)
+1667,Florida,United States of America (the)
+1668,Ohio,United States of America (the)
+1669,Illinois,United States of America (the)
+1670,California,United States of America (the)
+1671,Florida,United States of America (the)
+1672,California,United States of America (the)
+1673,New Mexico,United States of America (the)
+1674,California,United States of America (the)
+1675,Iowa,United States of America (the)
+1676,Illinois,United States of America (the)
+1677,California,United States of America (the)
+1678,New Jersey,United States of America (the)
+1679,New York,United States of America (the)
+1680,Texas,United States of America (the)
+1681,Maryland,United States of America (the)
+1682,Illinois,United States of America (the)
+1683,Chiangmai,Thailand
+1684,California,United States of America (the)
+1685,California,United States of America (the)
+1686,Pennsylvania,United States of America (the)
+1687,Pennsylvania,United States of America (the)
+1688,New Jersey,United States of America (the)
+1689,Ohio,United States of America (the)
+1690,Shan State,Myanmar
+1691,California,United States of America (the)
+1692,Illinois,United States of America (the)
+1693,New York,United States of America (the)
+1694,Washington,United States of America (the)
+1695,New Jersey,United States of America (the)
+1696,Tennessee,United States of America (the)
+1697,New York,United States of America (the)
+1698,California,United States of America (the)
+1699,Wisconsin,United States of America (the)
+1700,California,United States of America (the)
+1701,New York,United States of America (the)
+1702,New York,United States of America (the)
+1703,Chiapas,Mexico
+1704,Hawaii,United States of America (the)
+1705,Oklahoma,United States of America (the)
+1706,Rio Grande do Sul,Brazil
+1707,Texas,United States of America (the)
+1708,--,Thailand
+1709,California,United States of America (the)
+1710,Virginia,United States of America (the)
+1711,Florida,United States of America (the)
+1712,Quindio,Colombia
+1713,CESAR,Colombia
+1714,Cesar,Colombia
+1715,Wisconsin,United States of America (the)
+1716,JUNIN,Peru
+1717,Vaud,Switzerland
+1718,Minnesota,United States of America (the)
+1719,Aceh,Indonesia
+1720,Chiang Mai,Thailand
+1721,New Jersey,United States of America (the)
+1722,Minnesota,United States of America (the)
+1723,Matagalpa,Nicaragua
+1724,Lima,Peru
+1725,Michigan,United States of America (the)
+1726,California,United States of America (the)
+1727,Chiapas,Mexico
+1728,Oaxaca,Mexico
+1729,Matagalpa,Nicaragua
+1730,Matagalpa,Nicaragua
+1731,Matagalpa,Nicaragua
+1732,CHIAPAS,Mexico
+1733,CHIAPAS,Mexico
+1734,San Juan de Rio Coco,Nicaragua
+1735,Esteli,Nicaragua
+1736,Jinotega,Nicaragua
+1737,Jinotega,Nicaragua
+1738,Madriz,Nicaragua
+1739,JInotega,Nicaragua
+1740,Matagalpa,Nicaragua
+1741,Boaco,Nicaragua
+1742,Boaco,Nicaragua
+1743,Estelí,Nicaragua
+1744,Estelí,Nicaragua
+1745,Madriz,Nicaragua
+1746,Guayas,Ecuador
+1747,Sinuapa,Honduras
+1748,La Paz,Bolivia (Plurinational State of)
+1749,La Paz,Bolivia (Plurinational State of)
+1750,La Paz,Bolivia (Plurinational State of)
+1751,Oaxaca,Mexico
+1752,Chiapas,Mexico
+1753,CHIAPAS,Mexico
+1754,--,Mexico
+1755,CHIAPAS,Mexico
+1756,Connecticut,United States of America (the)
+1757,Minnesota,United States of America (the)
+1758,OAXACA,Mexico
+1759,California,United States of America (the)
+1760,Sao Paulo,Brazil
+1761,Indiana,United States of America (the)
+1762,Pennsylvania,United States of America (the)
+1763,CAJAMARCA,Peru
+1764,California,United States of America (the)
+1765,New Jersey,United States of America (the)
+1766,Jalisco,Mexico
+1767,Esteli,Nicaragua
+1768,Oregon,United States of America (the)
+1769,Sao Paulo,Brazil
+1770,Sao Paulo,Brazil
+1771,Tennessee,United States of America (the)
+1772,VERACRUZ,Mexico
+1773,Michigan,United States of America (the)
+1774,BOGOTA,Colombia
+1775,New York,United States of America (the)
+1776,California,United States of America (the)
+1777,Vermont,United States of America (the)
+1778,Guatemala,Guatemala
+1779,Texas,United States of America (the)
+1780,Ohio,United States of America (the)
+1781,Geneva,Switzerland
+1782,New York,United States of America (the)
+1783,Michigan,United States of America (the)
+1784,North Carolina,United States of America (the)
+1785,Chiang Rai,Thailand
+1786,New Jersey,United States of America (the)
+1787,New Jersey,United States of America (the)
+1788,California,United States of America (the)
+1789,Oregon,United States of America (the)
+1790,Wisconsin,United States of America (the)
+1791,Arkansas,United States of America (the)
+1792,Texas,United States of America (the)
+1793,New York,United States of America (the)
+1794,New Hampshire,United States of America (the)
+1795,Arizona,United States of America (the)
+1796,New Hampshire,United States of America (the)
+1797,Texas,United States of America (the)
+1798,Illinois,United States of America (the)
+1799,Kentucky,United States of America (the)
+1800,Rhode Island,United States of America (the)
+1801,Connecticut,United States of America (the)
+1802,California,United States of America (the)
+1803,New Hampshire,United States of America (the)
+1804,New Jersey,United States of America (the)
+1805,Jiangxi Province,China
+1806,CHIAPAS,Mexico
+1807,Montana,United States of America (the)
+1808,OAXACA,Mexico
+1809,Taiwan (R.O.C.),Taiwan (Province of China)
+1810,Massachusetts,United States of America (the)
+1811,Oregon,United States of America (the)
+1812,--,Guatemala
+1813,Kansas,United States of America (the)
