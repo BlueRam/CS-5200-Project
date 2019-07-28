@@ -211,26 +211,6 @@ select *
 from rating
 where reviewer_id=1;
 
-drop event if exists sub_order;
-
-create event sub_order
-	ON schedule
-    every 1 day
-    do
-		insert into orders
-        select user_id_o as user, curdate() as today, 1 as sub_order
-		from
-		(select user_id_o, max(order_date) as recent
-			from orders
-			where subscription_order = 1
-			group by user_id_o
-			having datediff(curdate(),recent)= 30)ord
-		left join user us on user_id_o = user_id
-		left join subscription su on us.user_id = su.user_id
-		left join recommendations on us.user_id = re_user_id
-        where product_rank <= level_id;
-	
-drop procedure if exists upgrade_sub;
 
 DELIMITER //
 
