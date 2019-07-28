@@ -7,4 +7,4 @@ The Master Repository contains all files, scripts, and datasets that are conside
 Look at the "Hello World GitHub Guides" pdf contained in this repository.  It details a brief tutorial on how to use GitHub.  
 
 Team Members: 
-Noah Demoes, Stanley Yu, Mitch Gauthier
+Noah Demoes, Mitch Gauthier, Stanley Yu
