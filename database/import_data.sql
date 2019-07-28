@@ -98,14 +98,14 @@ load DATA LOCAL INFILE '/home/stanley/Desktop/project-repository/coffee_data/use
 
 select* from user;
 
-load DATA LOCAL INFILE '/home/stanley/Desktop/project-repository/coffee_data/rating.csv'
-	 INTO TABLE coffee_database.rating
+load DATA LOCAL INFILE '/home/stanley/Desktop/project-repository/coffee_data/ratings.csv'
+	 INTO TABLE coffee_database.reviews
 	 FIELDS TERMINATED BY ','
 	 ENCLOSED BY '"'
  	 LINES TERMINATED BY '\n' -- \n means "new line"
  IGNORE 1 ROWS;
 
-select * from rating;
+select * from reviews;
 
 load DATA LOCAL INFILE '/home/stanley/Desktop/project-repository/coffee_data/order.csv'
 	 INTO TABLE coffee_database.orders
@@ -134,4 +134,13 @@ load DATA LOCAL INFILE '/home/stanley/Desktop/project-repository/coffee_data/sub
  IGNORE 1 ROWS;
 
 select * from subscription;
+
+
+load DATA LOCAL INFILE '/home/stanley/Desktop/project-repository/coffee_data/ratings.csv'
+	INTO TABLE coffee_database.recommendations
+	FIELDS TERMINATED BY ','
+	ENCLOSED BY '"'
+	LINES TERMINATED BY '\n' 
+IGNORE 1 ROWS; 
+
 

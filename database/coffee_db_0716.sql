@@ -15,7 +15,7 @@ email varchar(250) not null,
 address varchar(250) not null, 
 subscriber tinyint default 0,
 dob date not null, 
-drink_frequency enum('1','2','3','4','5','5+'), 
+drink_frequency enum('1','2','3','4','5+'), 
 roast_preference enum('light', 'medium', 'dark', 'espresso'), 
 gender varchar(50));  
 
@@ -73,12 +73,12 @@ constraint flavor_aroma_id foreign key (flavor_aroma_id) references aroma (flavo
 constraint coffee_id_a foreign key (coffee_id_a) references coffee_products (coffee_id));  
 
 
-drop table if exists rating;
+drop table if exists reviews;
 
-create table rating( 
+create table reviews( 
 reviewer_id int primary key auto_increment,
 coffee_id_r int not null,
-rating enum('1','2','3','4','5'), 
+rating varchar(50), 
 constraint reviewer_id foreign key (reviewer_id) references user (user_id), 
 constraint coffee_id_r foreign key (coffee_id_r) references coffee_products (coffee_id)); 
 
@@ -126,12 +126,9 @@ drop table if exists recomendations;
 create table recommendations(
 re_user_id int not null,
 re_coffee_id int,
-product_rank ENUM('1','2','3'),
-
+product_rank int,
 constraint re_user_id foreign key (re_user_id) references user (user_id),
-constraint re_coffee_id foreign key (re_coffee_id) references coffee_products (coffee_id)
-
-);
+constraint re_coffee_id foreign key (re_coffee_id) references coffee_products (coffee_id));
 
 
 -- Adding Data to Subscription Level Table -- 
@@ -153,7 +150,7 @@ select * from coffee_to_farm;
 select * from farm; 
 select * from orders; 
 select * from origin; 
-select * from rating; 
+select * from reviews; 
 select * from recommendations;
 select * from subscription;
 select * from subscription_level;
