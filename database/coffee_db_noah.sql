@@ -159,22 +159,6 @@ call add_user(1, "Stanley Yu", "iLikeIke", "yu.sta@husky.neu.edu", "143 Park Dri
 select * from user;
 
 
--- Create Subscription Update Trigger 
-drop trigger if exists subscription_update; 
-
-delimiter // 
-create trigger subscription_update
-	after update on user
-	for each row 
-begin 
-	-- User's Subscription Status changed to 1, aka TRUE  
-	if new.subscriber = true and old.subscriber = false then 
-	insert into subscription values 
-		(1, curdate(), 'small', new.user_id);
-	end if;
-end // 
-delimiter ; 
-
 
 -- Test Subscription update trigger 
 update user 
@@ -226,5 +210,52 @@ truncate kart;
 select *
 from rating
 where reviewer_id=1;
+
+drop event if exists sub_order;
+
+create event sub_order
+	ON schedule
+    every 1 day
+    do
+		insert into orders
+        select user_id_o as user, curdate() as today, 1 as sub_order
+		from
+		(select user_id_o, max(order_date) as recent
+			from orders
+			where subscription_order = 1
+			group by user_id_o
+			having datediff(curdate(),recent)= 30)ord
+		left join user us on user_id_o = user_id
+		left join subscription su on us.user_id = su.user_id
+		left join recommendations on us.user_id = re_user_id
+        where product_rank <= level_id;
+	
+drop procedure if exists upgrade_sub;
+
+DELIMITER //
+
+CREATE PROCEDURE upgrade_sub
+(
+	IN user_id_param int,
+    	IN level_id_param int
+)
+begin
+	update user
+    	set subscriber = 1
+    	where user_id = user_id_param;
+
+	if user_id_param not in (select user_id from subscription) then
+		insert into subscription
+        	values (NULL,curdate(),user_id_param,level_id_param);
+	end if;
+    
+    	IF user_id_param in (select user_id from subscription) then
+		update subscription
+        	set level_id = level_id_param
+        	where user_id = user_id_param;
+	end IF;
+    
+end //
+DELIMITER ;
 
 
