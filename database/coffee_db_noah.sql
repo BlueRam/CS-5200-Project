@@ -95,7 +95,7 @@ drop table if exists subscription;
 create table subscription(
 subscription_id int primary key auto_increment,
 date_subscribed date not null, 
-membership enum('small', 'medium') not null, 
+membership enum('Bronze', 'Silver','Gold') not null, 
 user_id int not null,
 constraint user_id foreign key (user_id) references user (user_id)); 
 
